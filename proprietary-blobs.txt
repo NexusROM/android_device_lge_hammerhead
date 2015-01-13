@@ -24,7 +24,7 @@
 /system/bin/ds_fmc_appd
 /system/bin/irsc_util
 /system/bin/mm-qcamera-daemon
-/system/bin/mpdecision
+#/system/bin/mpdecision
 /system/bin/netmgrd
 /system/bin/nl_listener
 /system/bin/port-bridge
@@ -34,7 +34,7 @@
 /system/bin/rmt_storage
 /system/bin/sensors.qcom
 /system/bin/subsystem_ramdump
-/system/bin/thermal-engine-hh
+#/system/bin/thermal-engine-hh
 /system/bin/time_daemon
 /system/bin/usbhub
 /system/bin/usbhub_init
@@ -58,6 +58,7 @@
 /system/framework/serviceitems.jar
 /system/lib/hw/flp.msm8974.so
 /system/lib/hw/gps.msm8974.so
+/system/lib/hw/power.hammerhead.so
 /system/lib/libadsprpc.so
 /system/lib/libchromatix_imx179_common.so
 /system/lib/libchromatix_imx179_default_video.so
