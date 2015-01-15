@@ -15,4 +15,3 @@
 #
 
 add_lunch_combo aosp_hammerhead-userdebug
-add_lunch_combo cm_hammerhead-userdebug
